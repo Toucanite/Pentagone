@@ -1,0 +1,28 @@
+body {
+	padding-top: 100px;
+    width: 510px;
+    margin: auto;
+	font-family: Calibri, Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	background-color: white;
+	background-image: url("pentagon.jpg");
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+.red {
+	color: red;
+}
+
+.menu {
+	height: 62px;
+	width: 500px;
+}
+
+.menuitem {
+	float: right;
+	text-align: center;
+	height: 60px;
+	width: 120px;
+	border: 1px solid black;
+}
