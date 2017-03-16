@@ -6,3 +6,5 @@ je t'encule a sec avec du gravier.
 
 Corrdialement, 
 Ton ami gay
+
+p.s: je rigole mdr xptdr aller kisscool
